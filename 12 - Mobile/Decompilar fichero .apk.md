@@ -1,0 +1,3 @@
+- Decompilar --> `apktool d mobile-app-prototype.apk`
+- Buscar en "/res/values/strings.xml" contraseñas, sobre todo si existe una base de datos firebase.
+- Normalmente las contraseñas estarán encriptadas

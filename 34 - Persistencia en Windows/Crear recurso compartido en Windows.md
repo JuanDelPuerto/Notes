@@ -1,0 +1,1 @@
+`net share attacker_folder=C:\Windows\Temp /GRANT:Administrators,FULL`

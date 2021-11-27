@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "90f845d7aacf384e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e3535a1ced8be27",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "02 - Python/node_htb_bof.py.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "923621efeb937355",
+    "type": "split",
+    "children": [
+      {
+        "id": "a171999afd2dae1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8c454978bdf1f53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb82c4371636ecd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 459
+  },
+  "right": {
+    "id": "7b6c79412a73e420",
+    "type": "split",
+    "children": [
+      {
+        "id": "287df91099498e27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b50b32bcd05c804",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - Python/node_htb_bof.py.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2e3535a1ced8be27",
+  "lastOpenFiles": [
+    "02 - Python/node_htb_bof.py.md",
+    "08 - Buffer Overflow/BOF sobre CloudMe (Windows).md",
+    "05 - Reconocimiento/5008.- WEB/Fuzzing.md",
+    "05 - Reconocimiento/5008.- WEB/Crear un diccionario con cewl basado en las palabras de un servicio web.md",
+    "05 - Reconocimiento/5008.- WEB/Enumeración web.md",
+    "05 - Reconocimiento/5008.- WEB/Fuzzing sobre IIS.md",
+    "07 - Reversing/Reversing EJEMPLOS.md",
+    "21 - OWASP top 10/1 - Injection.md",
+    "21 - OWASP top 10/5 - Broken Access Control.md",
+    "21 - OWASP top 10/2 - Broken Authentication.md"
+  ]
+}
